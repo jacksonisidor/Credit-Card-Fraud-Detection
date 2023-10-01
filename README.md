@@ -13,10 +13,8 @@ The primary objective of this project is develop a model that can accurately ide
 - Model Evaluation: Imbalanced test data can reduce the interpretability of accuracy scores, so I analyzed both AUPRC and classification reports to come up with a conclusion that weighed the advantages and disadvantages of two models.
 
 ## Data Source
-All data used is sourced from ['Credit Card Card Fraud Detection'](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) by Machine Learning Group on Kaggle. This data contains information on transactions made by credit cards in September 2013 by European cardholders.
+All data used is sourced from ['Credit Card Card Fraud Detection'](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) by Machine Learning Group on Kaggle. Clicking on the link will take you to the Kaggle data card. This data contains information on transactions made by credit cards in September 2013 by European cardholders.
 
 ## Repository Structure
 - `cc_fraud_detection.ipynb`: A Jupyter Notebook containing the steps to producing a credit card fraud detection models. 
-- `creditcards.csv`: A dataset containing the month-long tracking of the control campaign.
-
 
